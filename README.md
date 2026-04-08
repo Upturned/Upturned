@@ -12,19 +12,10 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-   <a href="https://github.com/Upturned">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Upturned&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upturned&layout=compact&langs_count=6&theme=tokyonight"/>
- </div>
-</div>
-
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
     <h1 align="center"></h1>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,angular,git,c,cpp,java,spring,postgres&perline=6" />
+        <img src="https://skillicons.dev/icons?i=postgres,java,spring,c,cpp,html,css,scss,javascript,nodejs,typescript,angular,lua,git,github,gitlab,linux&perline=9" />
       </a>
     </p>
   </div>
