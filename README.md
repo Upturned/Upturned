@@ -10,6 +10,14 @@ I'm Felipe, a full-stack developer focused on building maintainable software tha
 
 ---
 
+### What I'm currently studying
+
+- **Lua + Löve2D**  
+  Learning the basics of game development by building small projects and experimenting with mechanics.  
+  Focus: simplicity, iteration, and learning hands-on.
+
+---
+
 ### Tech Stack
 
 <p align="center">
@@ -17,14 +25,6 @@ I'm Felipe, a full-stack developer focused on building maintainable software tha
     <img src="https://skillicons.dev/icons?i=postgres,java,spring,c,cpp,html,css,scss,javascript,nodejs,typescript,angular,lua,git,github,gitlab,linux&perline=9" />
   </a>
 </p>
-
----
-
-### What I'm currently studying
-
-- **Lua + Löve2D**  
-  Learning the basics of game development by building small projects and experimenting with mechanics.  
-  Focus: simplicity, iteration, and learning hands-on.
 
 ---
 
