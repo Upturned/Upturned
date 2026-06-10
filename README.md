@@ -12,10 +12,10 @@ I'm Felipe, a full-stack developer focused on building maintainable software tha
 
 ### What I'm currently studying
 
-- **Lua + Löve2D**
+- **Lua + Löve2D**: 
   Learning the basics of game development by building small projects and experimenting with mechanics.  
   Focus: simplicity, iteration, and learning hands-on.
-- **Hono API**
+- **Hono API**: 
   Learning a lightweight framework for the backend, as an alternative to more traditional ones.
   Focus: straightforwardness, performance, and exploring a different approach to API development.
 
